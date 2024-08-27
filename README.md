@@ -6,7 +6,7 @@ Front-End Developer with a solid background in HTML, CSS, and JavaScript, and fa
 
 
 ## My Projects
-- [Hotel Booking System Dashboard](https://github.com/NelsonSamuvel/the-city-haven)
+- [Hotel Booking System Dashboard](https://the-cities-haven.netlify.app)
 
 
 ## Tech Stack
