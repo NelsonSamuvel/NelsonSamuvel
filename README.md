@@ -1,7 +1,6 @@
 # Hi, I'm NELSON! 👋
 
-Front-End Developer with a solid background in HTML, CSS, and JavaScript, and familiarity withframeworks like React. Committed to designing responsive, user-friendly web applications and 
-enhancing overall user experience.
+Front-End Developer with a solid background in HTML, CSS, and JavaScript, and familiarity with frameworks like React. Committed to designing responsive, user-friendly web applications and enhancing overall user experience.
 
 <!-- ![NelsonSamuvel's Stats](https://github-readme-stats.vercel.app/api?username=NelsonSamuvel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
