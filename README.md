@@ -1,4 +1,4 @@
-# Hi, I'm NELSON Samuvel! 👋
+# Hi, I'm NELSON SAMUVEL! 👋
 
 Front-End Developer with a solid background in HTML, CSS, and JavaScript, and familiarity with frameworks like React. Committed to designing responsive, user-friendly web applications and enhancing overall user experience.
 
