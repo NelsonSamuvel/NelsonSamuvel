@@ -22,6 +22,6 @@ Front-End Developer with a solid background in HTML, CSS, and JavaScript, and fa
 
 ## 📬 Get in Touch
 - Connect with me on [Linkedin](https://www.linkedin.com/in/nelson-samuvel)
-- Contact me  [Email](nelsonsamvl@gmail.com)
+- Contact me  [Gmail](nelsonsamvl@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
