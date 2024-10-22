@@ -7,17 +7,17 @@ Front-End Developer with a solid background in HTML, CSS, and JavaScript, and fa
 
 ## My Projects
 - [Hotel Booking System Dashboard](https://the-cities-haven.netlify.app)
-
+-[Code-Pro](https://codespros.netlify.app/)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,supabase,typescript)]
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Frontend Web Development
-- 🧮 Styling with Tailwind CSS to create modern and responsive user interfaces.
-- 📅 learning Supabase, a backend as a service that provides features like authentication, database management, and real-time capabilities to enhance my full-stack development skills.
-- 🖨️ Building my capstone project.
+- 🚀 Learning Typescript with React
+- 🧮 Understanding how the API works
+- 📅 Refreshing oops concepts in Javascript
+- 🖨️ Building my personal project.
     
 
 ## 📬 Get in Touch
