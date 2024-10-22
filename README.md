@@ -7,7 +7,7 @@ Front-End Developer with a solid background in HTML, CSS, and JavaScript, and fa
 
 ## My Projects
 - [Hotel Booking System Dashboard](https://the-cities-haven.netlify.app)
--[Code-Pro](https://codespros.netlify.app/)
+- [Code-Pro](https://codespros.netlify.app/)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,supabase,typescript)]
