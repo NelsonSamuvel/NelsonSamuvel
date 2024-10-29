@@ -14,9 +14,9 @@ Dedicated and enthusiastic MERN Stack Developer with a passion for building full
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Typescript with React
+- 🚀 Learning Data structures and Algorithms
 - 🧮 Understanding how the API works
-- 📅 Refreshing oops concepts in Javascript
+- 📅 Learning Express js
 - 🖨️ Building my personal project.
     
 
