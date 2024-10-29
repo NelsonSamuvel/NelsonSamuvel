@@ -1,6 +1,6 @@
 # Hi, I'm NELSON SAMUVEL! 👋
 
-Front-End Developer with a solid background in HTML, CSS, and JavaScript, and familiarity with frameworks like React. Committed to designing responsive, user-friendly web applications and enhancing overall user experience.
+Dedicated and enthusiastic MERN Stack Developer with a passion for building full-stack applications using MongoDB, Express.js, React, and Node.js. Eager to leverage my knowledge in web development to create dynamic, user-focused applications. Experienced in crafting efficient APIs, responsive UIs, and scalable backends, focusing on delivering functional, reliable, and user-friendly solutions. Ready to bring fresh perspectives, a commitment to continuous learning, and strong problem-solving skills to a collaborative development team.
 
 <!-- ![NelsonSamuvel's Stats](https://github-readme-stats.vercel.app/api?username=NelsonSamuvel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
