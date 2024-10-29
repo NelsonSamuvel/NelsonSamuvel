@@ -10,7 +10,7 @@ Dedicated and enthusiastic MERN Stack Developer with a passion for building full
 - [Code-Pro](https://codespros.netlify.app/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,supabase,typescript)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,supabase,typescript,nodejs)]
 
 ## 🌱 Currently Exploring
 
