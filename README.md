@@ -7,7 +7,7 @@ Dedicated and enthusiastic Frontend Developer with a passion for building full-s
 
 ## My Projects
 - [Hotel Booking System Dashboard](https://the-cities-haven.netlify.app)
-- [Code-Pro](https://codespros.netlify.app/)
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,supabase,typescript,nextjs)]
@@ -15,9 +15,8 @@ Dedicated and enthusiastic Frontend Developer with a passion for building full-s
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Data structures and Algorithms
-- 🧮 Understanding how the API works
-- 📅 Learning Express js
-- 🖨️ Building my personal project.
+- 🔗 Matering React and Next js
+- 🖨️ Building a real project.
     
 
 ## 📬 Get in Touch
